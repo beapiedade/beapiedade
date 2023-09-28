@@ -1,13 +1,23 @@
 # Bem vindo ao meu GitHub! :v:
 
-[<img align="left" alt="GitHub" height="50" src="https://cdn.icon-icons.com/icons2/1125/PNG/512/1486164216-goodreadslinerround_79638.png" />](https://www.goodreads.com/user/show/117475440-beatriz-de-oliveira)
+<br>
 
-<div>
-<img height="200px" src="img/octocat-1695906362453.png"/>
+- :seedling: Meu nome é Beatriz!
+- :computer: Curso o **4°** período de Ciência da Computação na UFF
+- :hotsprings: Atualmente estou aprendendo **Java**
+  
+### ESTATÍSTICAS
+<div align="center">
+  <img height="200px" src="img/octocat-1695906362453.png"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&hide_title=true&hide_border=false&layout=compact&"/>
 </div>
 
-## SOBRE MIM
-
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&layout=compact&langs_count=7&theme=dracula"/>
+### LINGUAGENS E TECNOLOGIAS
+<div align="center">
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
+
+<br>

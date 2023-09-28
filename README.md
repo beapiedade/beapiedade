@@ -9,6 +9,5 @@
 ## SOBRE MIM
 
 <div>
-<a href="https://github.com/beatrizopdd">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&layout=compact&langs_count=7&theme=dracula"/>
 </div>

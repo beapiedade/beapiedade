@@ -1,5 +1,5 @@
 # SOBRE MIM
 
 <div>
-<img height="150px" src="img/octocat-1695906362453.png"/>
+<img height="200px" src="img/octocat-1695906362453.png"/>
 </div>

@@ -9,7 +9,7 @@
 ### ESTATÍSTICAS
 <div align="center">
   <img height="200px" src="img/octocat-1695906362453.png"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&hide_title=true&hide_border=false&layout=compact&"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&hide_title=true&hide_border=false&"/>
 </div>
 
 ### LINGUAGENS E TECNOLOGIAS

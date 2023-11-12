@@ -1,18 +1,13 @@
-# Bem vindo ao meu GitHub! :v:
-
-<br>
-
 - :seedling: Meu nome é Beatriz!
 - :computer: Curso o **4°** período de Ciência da Computação na UFF
 - :hotsprings: Atualmente estou aprendendo **Java**
   
-### ESTATÍSTICAS
 <div align="center">
   <img height="200px" src="img/octocat-1695906362453.png"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&hide_title=true&hide_border=false&"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&layout=pie&hide_title=false&hide_border=true&theme=transparent"/>
 </div>
 
-### LINGUAGENS E TECNOLOGIAS
+#### LINGUAGENS E TECNOLOGIAS
 <div align="center">
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />

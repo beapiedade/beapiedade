@@ -1,11 +1,15 @@
 - :seedling: Meu nome é Beatriz!
 - :computer: Curso o **4°** período de Ciência da Computação na UFF
 - :hotsprings: Atualmente estou aprendendo **Java**
-  
+
+<hr>
+
 <div align="center">
   <img height="200px" src="img/octocat-1695906362453.png"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&layout=compact&hide_title=false&hide_border=false&theme=transparent"/>
 </div>
+
+<hr>
 
 #### LINGUAGENS E TECNOLOGIAS
 <div align="center">

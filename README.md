@@ -4,7 +4,7 @@
   
 <div align="center">
   <img height="200px" src="img/octocat-1695906362453.png"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&layout=pie&hide_title=true&hide_border=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&layout=compact&hide_title=true&hide_border=true&theme=transparent"/>
 </div>
 
 #### LINGUAGENS E TECNOLOGIAS

@@ -1,6 +1,6 @@
 - :seedling: Meu nome é Beatriz!
 - :computer: Curso o **6°** período de Ciência da Computação na UFF
-- :hotsprings: Atualmente estou aprendendo **Dart**
+- :hotsprings: Atualmente estou aprendendo **Prolog**
 
 <hr>
 

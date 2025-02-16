@@ -6,7 +6,7 @@
 
 <div align="center">
   <img height="200px" src="img/octocat-1695906362453.png"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizopdd&layout=compact&hide_title=false&hide_border=false&theme=transparent&hide=CMake&langs_count=15"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beapiedade&layout=compact&hide_title=false&hide_border=false&theme=transparent&hide=CMake&langs_count=15"/>
 </div>
 
 <hr>

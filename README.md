@@ -15,9 +15,9 @@ Actuellement, je suis bénévole au HSE Lab, où je développe des solutions tec
 <h2>:bar_chart: GitHub Stats</h2>
 <br>
 <div align="center">
-  <img height="200px" src="img/octocat-1695906362453.png"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=beapiedade&show_icons=true&theme=material-palenight&hank_icon=github&include_all_commits=true"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beapiedade&layout=compact&hide_title=false&hide_border=false&theme=material-palenight&hide=CMake&langs_count=10"/>
+  <img height="150px" src="img/octocat-1695906362453.png"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=beapiedade&show_icons=true&theme=material-palenight&hank_icon=github&include_all_commits=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beapiedade&layout=compact&hide_title=false&hide_border=false&theme=material-palenight&hide=CMake&langs_count=10"/>
 </div>
 
 <h2>:computer: Skills</h2>

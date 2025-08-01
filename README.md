@@ -1,15 +1,7 @@
-<h2>:wave: Oi/Hi/Salut</h2>
+<h2>:wave: Oi</h2>
 <p> 
 :star: Meu nome é Beatriz! Sou do Rio de Janeiro e estudante de Ciência da Computação na Universidade Federal Fluminense.<br>
-Atualmente, atuo como voluntária no HSE Lab, desenvolvendo soluções tecnológicas para a área da saúde, e como bolsista na Coordenação de Pós-Graduação Stricto Sensu da UFF, onde trabalho com análise e organização de dados acadêmicos.
-</p>
-<p> 
-:star: My name is Beatriz! I'm from Rio de Janeiro and I'm a Computer Science student at Fluminense Federal University.<br>
-Currently, I'm a volunteer at the HSE Lab, developing tech solutions for the healthcare sector, and a research assistant at the UFF Graduate Studies Office, working with academic data analysis and organization.
-</p>
-<p> 
-:star: Je m'appelle Beatriz ! Je viens de Rio de Janeiro et je suis étudiante en informatique à l’Université Fédérale Fluminense.<br>
-Actuellement, je suis bénévole au HSE Lab, où je développe des solutions technologiques pour le secteur de la santé, et assistante à la coordination des études supérieures de l’UFF, où je travaille sur l’analyse et l’organisation des données académiques.
+Atualmente, atuo como voluntária no HSE Lab, desenvolvendo soluções tecnológicas para a área da saúde. Atuei como bolsista na Coordenação de Pós-Graduação Stricto Sensu da UFF, trabalhando com análise e organização de dados acadêmicos.
 </p>
 
 <h2>:bar_chart: GitHub Stats</h2>

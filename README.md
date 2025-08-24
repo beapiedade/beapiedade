@@ -1,7 +1,7 @@
 <h2>:wave: Oi</h2>
 <p> 
-:star: Meu nome é Beatriz! Sou do Rio de Janeiro e estudante de Ciência da Computação na Universidade Federal Fluminense.<br>
-Atualmente, atuo como voluntária no HSE Lab, desenvolvendo soluções tecnológicas para a área da saúde. Atuei como bolsista na Coordenação de Pós-Graduação Stricto Sensu da UFF, trabalhando com análise e organização de dados acadêmicos.
+Meu nome é Beatriz! Sou do Rio de Janeiro e estudante de Ciência da Computação na Universidade Federal Fluminense.<br>
+Atuei como voluntária no HSE Lab, desenvolvendo soluções tecnológicas para a área da saúde, e como bolsista na Coordenação de Pós-Graduação Stricto Sensu da UFF, trabalhando com análise e organização de dados acadêmicos. Atualmente sou estagiária de soluções de mídias na Globo.
 </p>
 
 <h2>:bar_chart: GitHub Stats</h2>
